@@ -7,3 +7,16 @@ packages:
   gitUrl: https://github.com/rahul-singh-IBM-68
   gitUsername: rahul-singh-IBM-68
   gitBranch: main
+services:
+- serviceName: project.rahs_11thnove_ext0001.integrations:MyNewFlowService
+  packages:
+  - name: RAHS_11thNove_Ext0001Project
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1328
+- serviceName: project.rahs_11thnove_ext0001.streaming.connections:EmbeddedMessaging
+  packages:
+  - name: RAHS_11thNove_Ext0001Project
+    version: "1.0"
