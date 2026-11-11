@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.rahs_11thnove_ext0001.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">RAHS_11thNove_Ext0001Project</value>
+  <value name="is_public">false</value>
+  <value name="assetId">RAHS_11thNove_Ext0001Project.project.rahs_11thnove_ext0001.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://enginx.local:5050/localdev/</value>
+  <value name="clientId">EMa57535bc9c30407bac315228a0c9be86</value>
+  <value name="securityProtocol"></value>
+  <value name="keystoreAlias"></value>
+  <value name="keystoreKeyAlias"></value>
+  <value name="truststoreAlias"></value>
+  <value name="additionalProperties"></value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Rahul.Singh68@ibm.com</value>
+    <value name="modifiedBy">Rahul.Singh68@ibm.com</value>
+    <value name="createdDate">2026-11-11T13:25:06.404824301Z</value>
+    <value name="lastModifiedDate">2026-11-11T13:25:06.404824301Z</value>
+  </record>
+</Values>
